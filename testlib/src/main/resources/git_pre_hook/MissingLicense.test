@@ -1,4 +1,4 @@
- com.github.youribonnaffe.gradle.format;
+package com.github.youribonnaffe.gradle.format;
 
 import java.util.function.Function;
 
